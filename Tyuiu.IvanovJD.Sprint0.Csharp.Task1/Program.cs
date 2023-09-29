@@ -10,6 +10,13 @@ namespace Tyuiu.IvanovJD.Sprint0.Csharp.Task1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, world");
+            
+            string name = "Ярослав";
+            int age = 18;
+            Console.WriteLine("Здравствуйте меня зовут " + name + "мне " + age+ "Лет!");
+            Console.ReadKey();
+
         }
     }
 }
