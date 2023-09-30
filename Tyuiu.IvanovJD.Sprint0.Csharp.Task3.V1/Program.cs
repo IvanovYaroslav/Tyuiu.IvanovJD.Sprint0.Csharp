@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Tyuiu.IvanovJD.Sprint0.Csharp.Task4.V1.Lib;
 
-namespace Tyuiu.IvanovJD.Sprint0.Csharp.Task3.V1
+namespace Tyuiu.IvanovJD.Sprint0.Csharp.Task4.V1
 {
     class Program
     {
