@@ -17,7 +17,7 @@ namespace Tyuiu.IvanovJD.Sprint0.Csharp.Task7.V1
             Console.WriteLine("* Тема: Создание итогового решения по спринту                              *");
             Console.WriteLine("* Задания #7                                                               *");
             Console.WriteLine("* Вариант #0                                                               *");
-            Console.WriteLine("* Выполнил: Иванов Ярослав Дмитриевич  | РПСб-23-1                         *");
+            Console.WriteLine("* Выполнил: Иванов Ярослав Дмитриевич  | ПКТБ-23-2                         *");
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                 *");
             Console.WriteLine("* Написать консольную программуна С#, которая суммирует значения двух      *");
